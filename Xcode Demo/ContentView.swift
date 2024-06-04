@@ -13,7 +13,7 @@ struct ContentView: View {
             // Image of the globe
             Image(systemName: "bookmark.fill")
                 .imageScale(.large)
-                .foregroundStyle(Color("Primary Color"))
+                .foregroundStyle(Color("Primary Icon Color"))
             // Label
             Text("Hello, world. Let's do it!")
                 .bold()
